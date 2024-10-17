@@ -2,9 +2,9 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-int amont = 12_500;
-int mile = 20;
-int bonus = amont / 20;
-        System.out.println("Начисленные мили:" +bonus);
+        int amont = 12_500;
+        int mile = 20;
+        int bonus = amont / 20;
+        System.out.println("Начисленные мили:" + bonus);
     }
 }
